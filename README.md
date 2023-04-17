@@ -1,1 +1,1 @@
-Cоздан мини-проект на гридах.
+Mini project by using Grid.
